@@ -5,7 +5,7 @@ demo Qr
 src->pages->NotLogin->QrLogin (logica del proyecto)
 
 # paso para la ejecucion
- 1 instale las depencias npm install
- 2 abra dos termninales en el visual studio y ejecute los siguientes
+  instale las depencias-> npm install
+ , abra dos terminales en el visual studio y ejecute los siguientes
    comandos->  npx react-native start  
    y en la otra terminal-> npx react-native run-android
